@@ -1,0 +1,1 @@
+import{e,c as t}from"./entry.0835186d.js";import{x as n,y as c}from"./swiper-vue.5ad429d7.js";function _(s,a){const o=e;return n(),c(o,{name:"section-aside"})}const r={},u=t(r,[["render",_]]);export{u as default};
